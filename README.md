@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **itsashusagar@gmail.com**
 
-- ⚡ Fun fact **I really like Vim :)**
+- ⚡ Fun fact **I really like Next.js :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
